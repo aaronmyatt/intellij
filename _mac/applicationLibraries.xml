@@ -270,6 +270,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
+    <library name="diffy (v3.1.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/diffy-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/diffy-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/erubis-2.7.0/bin" />
@@ -416,6 +424,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/globalid-0.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="gmaps4rails (v2.1.2, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/js_compilation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/gmaps4rails-2.1.2/js_compilation" />
+      </SOURCES>
+    </library>
     <library name="html-pipeline (v2.3.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/html-pipeline-2.3.0/bin" />
@@ -502,6 +524,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/x86_64-darwin14" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="jazz_hands (v0.5.2@5e4b48, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/jazz_hands-5e4b48f14588/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/jazz_hands-5e4b48f14588/lib" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.4.1, RVM: ruby-2.2.2) [gem]">
@@ -1016,6 +1046,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.9.12.6, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/wiki" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-0.9.12.6/wiki" />
+      </SOURCES>
+    </library>
+    <library name="pry-stack_explorer (v0.4.9.2, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-stack_explorer-0.4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pry-stack_explorer-0.4.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v1.5.3, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/public_suffix-1.5.3/lib" />
@@ -1050,6 +1102,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pygments.rb-0.6.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pygments.rb-0.6.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="quiet_assets (v1.1.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/quiet_assets-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/quiet_assets-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.4, RVM: ruby-2.2.2) [gem]">
@@ -1370,6 +1430,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sawyer-0.7.0/script" />
       </SOURCES>
     </library>
+    <library name="sdoc (v0.4.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="semantic-ui-sass (v2.1.8.0@7932e1, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/semantic-ui-sass-7932e1a06f84/app" />
@@ -1642,6 +1712,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yajl-ruby-1.2.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yajl-ruby-1.2.1/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yajl-ruby-1.2.1/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.8.7.6, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/yard-0.8.7.6/benchmarks" />
       </SOURCES>
     </library>
   </component>
