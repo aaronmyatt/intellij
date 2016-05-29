@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ActivateTerminalToolWindow">
+        <abbreviation name="term" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
