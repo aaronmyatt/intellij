@@ -1766,6 +1766,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/bundler-1.12.4/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.12.5, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/man" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.12.5, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/bundler-1.12.5/bin" />
@@ -4688,6 +4702,24 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/dotenv-1.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/dotenv-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v2.1.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.1.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-rails-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-rails-2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="dynamic_form (v1.1.4, RVM: ruby-2.0.0-p645) [gem]">
