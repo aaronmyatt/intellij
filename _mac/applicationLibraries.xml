@@ -17278,5 +17278,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/zuora-1b38f3ad694e/gemfiles" />
       </SOURCES>
     </library>
+    <library name="zuora (v1.0.4.mindvalley@ef4374, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="zuora (v1.0.5.mindvalley@479829, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/gemfiles" />
+      </SOURCES>
+    </library>
   </component>
 </application>
