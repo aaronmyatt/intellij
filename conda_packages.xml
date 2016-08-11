@@ -398,7 +398,7 @@
         <entry key="pylint" value="1.5.4" />
         <entry key="pymc" value="2.3.6" />
         <entry key="pymongo" value="3.0.3" />
-        <entry key="pymysql" value="0.6.7" />
+        <entry key="pymysql" value="0.7.6" />
         <entry key="pyodbc" value="3.0.10" />
         <entry key="pyopengl" value="3.1.1a1" />
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
@@ -422,7 +422,7 @@
         <entry key="pytables" value="3.2.3.1" />
         <entry key="pytest" value="2.9.2" />
         <entry key="pytest-cache" value="1.0" />
-        <entry key="pytest-cov" value="2.2.1" />
+        <entry key="pytest-cov" value="2.3.1" />
         <entry key="pytest-pep8" value="1.0.6" />
         <entry key="pytest-timeout" value="1.0.0" />
         <entry key="python" value="3.5.2" />
@@ -437,7 +437,7 @@
         <entry key="pytz" value="2016.6.1" />
         <entry key="pywget" value="2.2" />
         <entry key="pyyaml" value="3.11" />
-        <entry key="pyzmq" value="15.3.0" />
+        <entry key="pyzmq" value="15.4.0" />
         <entry key="qgrid" value="0.3.2" />
         <entry key="qt" value="4.8.7" />
         <entry key="qtawesome" value="0.3.3" />
@@ -4896,6 +4896,7 @@
               <option value="0.6.2" />
               <option value="0.6.7" />
               <option value="0.6.6" />
+              <option value="0.7.6" />
             </list>
           </value>
         </entry>
@@ -5114,6 +5115,7 @@
           <value>
             <list>
               <option value="2.2.1" />
+              <option value="2.3.1" />
             </list>
           </value>
         </entry>
@@ -5287,6 +5289,7 @@
               <option value="14.0.1" />
               <option value="14.2.0" />
               <option value="15.3.0" />
+              <option value="15.4.0" />
             </list>
           </value>
         </entry>
@@ -6704,6 +6707,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1470789814458" />
+    <option name="LAST_TIME_CHECKED" value="1470878651988" />
   </component>
 </application>
