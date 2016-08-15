@@ -73,5 +73,20 @@
       </map>
     </option>
   </component>
+  <component name="RecentTaskRepositories">
+    <PivotalTracker shared="false" url="http://www.pivotaltracker.com">
+      <option name="APIKey" value="22323fd5c81f8d1a061c286a5a63b1ac" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="projectId" value="1279890" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </PivotalTracker>
+  </component>
   <component name="RubyCucumber" number="7" string0="aruba" string1="calabash-android" string2="calabash-cucumber" string3="cucumber-api-steps" string4="factory_girl" string5="json_spec" string6="rails3-jquery-autocomplete" />
 </application>
