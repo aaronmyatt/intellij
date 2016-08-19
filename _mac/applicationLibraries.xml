@@ -7293,6 +7293,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/httpi-2.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="httpi (v2.4.2, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/httpi-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/httpi-2.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.0.0-p645) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645/gems/i18n-0.7.0/lib" />
@@ -8829,6 +8837,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.8.0/script" />
+      </SOURCES>
+    </library>
+    <library name="libxml-ruby (v2.9.0, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libxml-ruby/2.9.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.9.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.9.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/libxml-ruby/2.9.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.9.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/libxml-ruby-2.9.0/script" />
       </SOURCES>
     </library>
     <library name="libxml4r (v0.2.6, RVM: ruby-2.0.0-p645) [gem]">
@@ -14945,6 +14967,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/socksify-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="socksify (v1.7.0, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/socksify-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/socksify-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/socksify-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/socksify-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sorcerer (v1.0.2, RVM: ruby-2.0.0-p645) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.0.0-p645/gems/sorcerer-1.0.2/lib" />
@@ -17277,6 +17309,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/zuora-1b38f3ad694e/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/zuora-1b38f3ad694e/wsdl" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/zuora-1b38f3ad694e/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="zuora (v1.0.4.mindvalley@ef4374, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-ef4374df587a/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="zuora (v1.0.5.mindvalley@479829, RVM: ruby-2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/wsdl" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/bundler/gems/zuora-4798298c9d50/gemfiles" />
       </SOURCES>
     </library>
   </component>
