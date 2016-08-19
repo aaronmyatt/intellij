@@ -73,5 +73,23 @@
       </map>
     </option>
   </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9edfcbdfcedfc8df93dfcbdf98df9fdf98dfc8df98df92df9cdf92df9adf9fdf9adf9adf92df93dfc8dfc8dfccdf9ddf92df9adfccdfcfdf99df9cdf9edf93dfcfdf9edfcbdf9bdf93df9edf99df92</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="aaronmyatt" />
+      <option name="repoName" value="remin" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
   <component name="RubyCucumber" number="7" string0="aruba" string1="calabash-android" string2="calabash-cucumber" string3="cucumber-api-steps" string4="factory_girl" string5="json_spec" string6="rails3-jquery-autocomplete" />
 </application>
