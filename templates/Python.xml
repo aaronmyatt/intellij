@@ -1,8 +1,0 @@
-<templateSet group="Python">
-  <template name="pdb" value="import pdb; pdb.set_trace()" description="Python Debugger" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="pudb" value="import pudb; pu.db" description="pudb" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-</templateSet>
