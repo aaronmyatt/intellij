@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".beverage" type="PLAIN_TEXT" />
+      <mapping pattern="__init__,py" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

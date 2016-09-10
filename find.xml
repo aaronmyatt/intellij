@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/lsp/dev/BusinessIntelligence/sync_data.py'" />
-    <option name="defaultScopeName" value="File '/Users/lsp/dev/BusinessIntelligence/sync_data.py'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/lsp/dev/BusinessIntelligence/sync_data.py'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
