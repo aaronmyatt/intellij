@@ -4,6 +4,7 @@
       <action id="ActivateTerminalToolWindow">
         <abbreviation name="term" />
       </action>
+      <action id="ShowUmlDiagram" />
     </abbreviations>
   </component>
 </application>
