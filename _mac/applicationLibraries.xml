@@ -6465,6 +6465,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gmaps4rails-2.1.2/js_compilation" />
       </SOURCES>
     </library>
+    <library name="go" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_highlight.js_9.4.0_languages_go.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_highlight.js_9.4.0_languages_go.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="gon (v4.1.1, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/gon-4.1.1/js" />
@@ -7820,6 +7831,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/irbtools-2.0.1/lib" />
       </SOURCES>
+    </library>
+    <library name="javascript" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_highlight.js_9.4.0_languages_javascript.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_highlight.js_9.4.0_languages_javascript.min.js" />
+      </CLASSES>
+      <SOURCES />
     </library>
     <library name="jazz_hands (v0.5.2@5e4b48, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
