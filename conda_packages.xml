@@ -287,7 +287,7 @@
         <entry key="mdp" value="3.5" />
         <entry key="meld3" value="1.0.2" />
         <entry key="memory_profiler" value="0.41" />
-        <entry key="mercurial" value="3.9" />
+        <entry key="mercurial" value="3.9.1" />
         <entry key="meta" value="0.4.2.dev" />
         <entry key="mistune" value="0.7.3" />
         <entry key="mkl" value="11.3.3" />
@@ -343,7 +343,7 @@
         <entry key="opencv" value="2.4.8" />
         <entry key="openmpi" value="1.6.3" />
         <entry key="openpyxl" value="2.3.2" />
-        <entry key="openssl" value="1.0.2h" />
+        <entry key="openssl" value="1.0.2i" />
         <entry key="orange" value="2.7.8" />
         <entry key="orange-app" value="1.0.1" />
         <entry key="orange3" value="3.3.6" />
@@ -3761,6 +3761,7 @@
               <option value="3.0" />
               <option value="3.8.4" />
               <option value="3.9" />
+              <option value="3.9.1" />
             </list>
           </value>
         </entry>
@@ -4378,6 +4379,7 @@
               <option value="1.0.2f" />
               <option value="1.0.2h" />
               <option value="1.0.1g" />
+              <option value="1.0.2i" />
             </list>
           </value>
         </entry>
@@ -6970,6 +6972,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1474473246257" />
+    <option name="LAST_TIME_CHECKED" value="1474889280091" />
   </component>
 </application>
