@@ -921,10 +921,12 @@
     <library name="angularfire" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_angularfire_2.0.1_angularfire.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_angularfire_1.2.0_angularfire.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_angularfire_2.0.1_angularfire.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_libs_angularfire_1.2.0_angularfire.js" />
       </CLASSES>
       <SOURCES />
@@ -5620,10 +5622,12 @@
     <library name="firebase" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_3.0.3_firebase.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_live_3.0_firebase.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_3.0.3_firebase.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_firebasejs_live_3.0_firebase.js" />
       </CLASSES>
       <SOURCES />
