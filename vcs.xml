@@ -55,7 +55,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/mindvalley/MVETL" />
+          <option name="url" value="git@bitbucket.org:hosseintoussi/shelves-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sveltejs/svelte.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
