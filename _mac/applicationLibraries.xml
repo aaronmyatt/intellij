@@ -1126,6 +1126,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ast-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="auth0-angular-4.2.6" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.auth0.com_w2_auth0-angular-4.2.6.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.auth0.com_w2_auth0-angular-4.2.6.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="auto_html (v1.6.0, RVM: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/auto_html-1.6.0/lib" />
@@ -8939,6 +8950,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/little-plugger-1.1.4/lib" />
       </SOURCES>
+    </library>
+    <library name="lock-9.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.auth0.com_js_lock-9.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.auth0.com_js_lock-9.0.js" />
+      </CLASSES>
+      <SOURCES />
     </library>
     <library name="logging (v2.0.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
