@@ -2,11 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="__init__,py" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern=".beverage" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="2017-01-05_07" type="PLAIN_TEXT" />
+      <mapping ext="2017-01-09_04" type="PLAIN_TEXT" />
+      <mapping ext="2017-01-09_03" type="PLAIN_TEXT" />
+      <mapping ext="2017-01-05_06" type="PLAIN_TEXT" />
+      <mapping ext="2017-01-05_05" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
